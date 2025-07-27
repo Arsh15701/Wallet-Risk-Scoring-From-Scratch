@@ -5,6 +5,7 @@ This project assigns a **risk score** to Ethereum wallets using only publicly av
 It combines behavioral, transactional, and interaction-based features to classify wallets by trustworthiness and potential risk.
 
 ---
+The list of wallet addresses used for scoring is also uploaded as a csv file.
 
 ## 🔍 Overview
 
